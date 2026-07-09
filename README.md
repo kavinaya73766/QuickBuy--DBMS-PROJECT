@@ -1,6 +1,8 @@
+##  QuickBuy - E-Commerce Order Management Database System
+
 # Project Overview
 
-The E-Commerce Order Management Database System is designed to manage the operations of an online shopping platform efficiently. The system helps in customer management, product handling, order processing, payment tracking, shipment management, and customer reviews using a centralized database system.
+QuickBuy is an E-Commerce Order Management Database System is designed to manage the operations of an online shopping platform efficiently. The system helps in customer management, product handling, order processing, payment tracking, shipment management, and customer reviews using a centralized database system.
 
 ---
 
