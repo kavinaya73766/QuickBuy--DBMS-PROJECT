@@ -1,4 +1,4 @@
-##  QuickBuy - E-Commerce Order Management Database System
+# QuickBuy - E-Commerce Order Management Database System
 
 # Project Overview
 
