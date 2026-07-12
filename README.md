@@ -60,9 +60,9 @@ Project: QuickBuy – E-Commerce Order Management Database System
 
 Files Included:
 
-*Business Requirement Document
-*Requirement Analysis Report
-*Software Requirement Specification (SRS)
+* Business Requirement Document
+* Requirement Analysis Report
+* Software Requirement Specification (SRS)
 
 Summary:
 
@@ -75,8 +75,8 @@ Project: QuickBuy – E-Commerce Order Management Database System
 
 Files Included:
 
-*Entity Analysis Report
-*Entity Relationship Analysis Report
+* Entity Analysis Report
+* Entity Relationship Analysis Report
 
 Summary:
 
