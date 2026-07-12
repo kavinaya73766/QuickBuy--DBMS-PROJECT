@@ -58,12 +58,13 @@ QuickBuy is an E-Commerce Order Management Database System is designed to manage
 
 Project: QuickBuy – E-Commerce Order Management Database System
 
-Files Included
+Files Included:
+
 Business Requirement Document
 Requirement Analysis Report
 Software Requirement Specification (SRS)
 
-Summary
+Summary:
 
 Analyzed business requirements, project scope, stakeholders, and system requirements for the QuickBuy system.
 
@@ -72,10 +73,12 @@ Analyzed business requirements, project scope, stakeholders, and system requirem
 
 Project: QuickBuy – E-Commerce Order Management Database System
 
-Files Included
+Files Included:
+
 Entity Analysis Report
 Entity Relationship Analysis Report
-Summary
+
+Summary:
 
 Identified entities, attributes, primary keys, foreign keys, relationships, and cardinalities for the QuickBuy database system.
 
