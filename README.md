@@ -82,3 +82,17 @@ Summary:
 
 Identified entities, attributes, primary keys, foreign keys, relationships, and cardinalities for the QuickBuy database system.
 
+
+# Week 3 – Entity Relationship (ER) Diagram and Relational Schema Design
+
+Project: QuickBuy – E-Commerce Order Management Database System
+
+Files Included:
+
+- ER_Diagram.png
+- Relational_Schema.pdf
+- ER_Design_Report.pdf
+
+Summary:
+
+Designed the Entity Relationship (ER) Diagram and Relational Schema for the QuickBuy database system by defining entities, attributes, primary keys, foreign keys, relationships, and cardinalities.
